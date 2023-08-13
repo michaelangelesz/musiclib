@@ -32,7 +32,7 @@ function App() {
     e.preventDefault()
     setSearch(term)
   }
-  
+
   return (
     <div>
       {message}
